@@ -1,0 +1,10 @@
+pandas>=2.1
+numpy>=1.26
+scikit-learn>=1.4
+statsmodels>=0.14
+prophet>=1.1
+fastapi>=0.110
+uvicorn>=0.29
+mlflow>=2.12
+pydantic>=2.6
+pytest>=8.0
